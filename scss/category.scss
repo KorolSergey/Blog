@@ -1,0 +1,27 @@
+@import 'global';
+
+.category-banner {
+    height: 180px;
+    background-color: #f1f2f8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.category-banner__title {
+    font-size: 30px;
+    line-height: 38px;
+    color: var(--accent-color);
+}
+
+.sub-form__btn {
+    background-color: var(--accent-color);
+}
+
+.blog-title {
+    margin-bottom: 30px;
+}
+
+.pagination {
+    margin-top: 80px;
+}
